@@ -1,0 +1,346 @@
+<body>
+   <header class="header bg-white position-relative z-index-10" id="header">
+      <div class="header-main">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-lg-3">
+                  <div class="header-bar d-flex align-items-center">
+                     <div class="header-hamburger d-block d-lg-none">
+                        <button type="button" class="no-animation" id="header-hamburger">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        </button>
+                     </div>
+                     <div class="header-logo">
+                        <a href="/">
+                        <img src="https://i.imgur.com/C21wbbE.png" alt="ADMINSTRATOR VIETNAM" style="height:40px">
+                        </a>
+                     </div>
+                     <div class="header-button d-lg-none ml-auto d-flex align-items-center justify-content-end">
+                        <div class="header-button_items position-relative">
+                           <button type="button" class="btn-theme btn-theme_gray btn-collapse_search btn-call_search"><i class="far fa-search"></i></button>
+                           <div class="header-search">
+                              <form method="GET" action="/search">
+                                 <div class="form-group position-relative">
+                                    <input type="text" class="form-control" name="query" placeholder="Nh?p s? di?n tho?i, s? tài kho?n ngân hàng ...">
+                                    <button type="submit">
+                                    <i class="far fa-search"></i>
+                                    </button>
+                                 </div>
+                              </form>
+                           </div>
+                        </div>
+                        <div class="header-button_items position-relative">
+                           <a href="service/denounce" role="button" class="btn-theme btn-theme_primary">
+                              <div class="d-block d-sm-none">
+                                 <i class="fas fa-exclamation"></i>
+                              </div>
+                              <div class="d-sm-block d-none">
+                                 T? cáo l?a d?o
+                              </div>
+                              <span style="top: 37px; left: 95.4062px;"></span>
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-6">
+                  <div id="header-navigation" class="header-navigation d-lg-flex align-items-center justify-content-end">
+                     <ul>
+                        <li class="d-block d-lg-none header-navigation_logo">
+                           <a href="/">
+                           <img src="https://i.imgur.com/C21wbbE.png" alt="" style="height:40px">
+                           </a>
+                           <button type="button" class="header-navigation_close" id="header-navigation_close"><i class="far fa-times"></i></button>
+                        </li>
+                        <li>
+                           <a href="/service/introduce">
+                           GI?I THI?U
+                           </a>
+                        </li>
+                        <li>
+                           <a href="/service/rules">
+                           ÐI?U KHO?N
+                           </a>
+                        </li>
+                        <li>
+                           <a href="/service/reputation">
+                           QU? B?O HI?M ADMIN
+                           </a>
+                        </li>
+                        <li>
+                           <a href="/service/denounce">
+                           T? CÁO L?A Ð?O
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-lg-3">
+                  <div class="header-button d-none d-lg-flex align-items-center justify-content-end">
+                     <div class="header-button_items position-relative">
+                        <button type="button" class="btn-theme btn-theme_gray btn-collapse_search btn-call_search"><i class="far fa-search"></i></button>
+                        <div class="header-search">
+                           <form method="GET" action="/search">
+                              <div class="form-group position-relative">
+                                 <input type="text" class="form-control" name="query" placeholder="Nh?p s? di?n tho?i, s? tài kho?n ngân hàng ...">
+                                 <button type="submit">
+                                 <i class="far fa-search"></i>
+                                 </button>
+                              </div>
+                           </form>
+                        </div>
+                     </div>
+                     <div class="header-button_items position-relative">
+                        <a href="/service/denounce" role="button" class="btn-theme btn-theme_primary">
+                        T? CÁO L?A Ð?O
+                        <span style="top: -9.54688px; left: 73.4844px;"></span>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="header-overlay" id="header-overlay"></div>
+   </header><title>Hoàng Van Linh | B?o Hi?m H? So Uy Tín</title>
+<div id="main" class="main">
+    
+    
+        <div class="section-gap section-profile">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-12 col-lg-10">
+                    <div class="profile-inner">
+                        <div class="profile-avatar">
+                            <img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t39.30808-6/358050049_926509071982908_2467747496458587174_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=09cbfe&amp;_nc_ohc=4Zsb30YgdgcAX8Cm_c9&amp;_nc_ht=scontent.fdad3-1.fna&amp;oh=00_AfAt37QA3Y4GxdWh8LjsN5Ao4hzxPCvBSbIrVpwvY7irBA&amp;oe=64B5375C" alt="" https:="" scontent.fdad3-1.fna.fbcdn.net="" v="" t39.30808-6="">
+                        </div>
+                        <div class="profile-title">Nguyen Le</div>
+                        <div class="profile-buttons">
+                            <div class="btn-checkmess btn-checkmess_hidden">
+                                <a href="https://m.me/100038714706779/" class="btn-theme btn-theme_primary" target="_blank" https:="" www.messenger.com="" t="">
+                                    <i class="fab fa-facebook-messenger"></i>
+                                    Check Mess
+                                    <span style="top: -14.9062px; left: 91.1562px;"></span>
+                                </a>
+                                <a href="http://m.me/511475696/" class="description-hidden">
+                                    <span>?n vào "Check Mess" nh?n tin cho GDV d? ch?c ch?n r?ng b?n dang giao d?ch v?i Real</span>
+                                    <button>
+                                        Ok
+                                    </button>
+                                </a>
+                                <div class="description-overlay"></div>
+                            </div>
+                            <a href="tel:0862667899" class="btn-theme btn-theme_primary">
+                                <i class="fas fa-phone-alt"></i>
+                                Check Phone
+                                <span style="top: -6.90625px; left: 138.047px;"></span>
+                            </a>
+                        </div>
+                        <div class="profile-boxs">
+                            <div class="row row-col-15">
+                                <div class="col-md-6">
+                                    <div class="profile-box">
+                                        <div class="profile-box_content">
+                                            <div class="profile-box_content__title">
+                                                Thông tin liên h?
+                                            </div>
+                                            <div class="profile-box_content__list">
+                                                <p>
+                                                    <span>
+                                                        <i class="fab fa-facebook-f"></i>
+                                                    </span>
+                                                    Check Facebook:
+                                                    <a href="https://fb.com/100038714706779" target="_blank">
+100038714706779</a>
+                                                </p>
+                                                <p>
+                                                    <span>
+                                                        <img src="/assets/default/images/zalo.webp" alt="">
+                                                    </span>
+                                                    Check Zalo:
+                                                    <a href="https://zalo.me/0396631084/" target="_blank">0396631084</a>
+                                                </p>
+                                                <p>
+                                                    <span>
+                                                        <i class="far fa-globe"></i>
+                                                    </span>
+                                                    Website:
+                                                    <a admincheckscam.github.io="">admincheckscam.github.io
+
+</a>
+                                                </p>
+                                            </div>
+                                            <div class="profile-box_content__image">
+                                                <img src="/assets/default/images/info.webp" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="profile-box">
+                                        <div class="profile-box_content">
+                                            <div class="profile-box_content__title">
+                                                Qu? B?o Hi?m Checkscamvietnam.info                                            </div>
+                                            <div class="profile-box_content__desc">
+                                                <p>Khách hàng s? du?c <b>Checkscamvietnam.info b?o hi?m an toàn giao d?ch</b> v?i s?
+                                                    ti?n trong qu? b?o hi?m <strong>200.000 VND</strong> c?a <strong>Nguyen Le</strong></p>
+                                            </div>
+                                            <div class="profile-box_content__image">
+                                                <img src="/assets/default/images/shield.webp" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="profile-boxs">
+                            <div class="profile-box profile-box_nopr">
+                                <div class="profile-box_content">
+                                    <div class="profile-box_content__title">
+                                        Vui lòng ki?m tra k? thông tin tru?c khi giao d?ch tránh
+                                        Fake:
+                                    </div>
+                                    <div class="profile-box_content__subtitle">
+                                        TK ngân hàng
+                                    </div>
+                                    <ul>
+                                    <li class="oo9gr5id" dir="auto">
+                                        <strong>Tsr, Gt1s: rip_bluz05</strong>
+                                        <ul class="atm_list">
+                                                                                </ul>
+                                    </li>
+                                    <li class="oo9gr5id" dir="auto"><strong>Momo:</strong></li>
+                                    <li dir="auto"><strong>Facebook:</strong> <a href="https://fb.com/511475696" target="_blank" rel="noopener" https:="" www.facebook.com="">100038714706779</a></li>
+                                    </ul>
+                                    <div class="profile-box_content__subtitle">
+                                        Mô t?
+                                    </div>
+                                    <div class="mb-3">
+                                        <ul style="padding: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 15px; word-break: break-word; color: rgb(60, 64, 67); font-family: rb, sans-serif; font-size: 14px;"><li style="padding: 0px 0px 0px 15px; margin: 0px 0px 15px; list-style: none; word-break: break-word; position: relative;"><b style="padding: 0px; margin: 0px; word-break: break-word;">Các DV tang like, follow, view, sub m?ng xã h?i</b></li></ul>                                    </div>
+                                    <div class="profile-box_content__desc">
+                                        <p><strong>Luu Ý:</strong> Tránh tru?ng h?p Nick Fake, ?nh Fake, Link Fake, R?a
+                                            Ti?n…. Ngu?i dùng hãy nh? Chát dúng Facebook, G?i dúng SÐT, Chuy?n kho?n
+                                            dúng nh?ng STK có ? trong trong link b?o hi?m này Checkscamvietnam.info cam k?t b?n s?
+                                            an toàn trong m?i giao d?ch..!!!</p>
+                                    </div>
+                                    <div class="profile-box_content_watermark">
+                                        <img src="https://i.imgur.com/C21wbbE.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="profile-desc">
+                            M?i giao d?ch c?a b?n v?i <b>"Hoàng Van Linh"</b> s? du?c <b>Checkscamvietnam.info                                B?o v?</b> v?i s? ti?n n?m trong <strong>Qu? b?o hi?m 123.456.789 VND</strong> khi b?n
+                            tuân theo
+                            <a href="">Ði?u Kho?n S? D?ng</a>
+                            c?a Checkscamvietnam.info                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="footer-top">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-3">
+                            <div class="footer-item">
+                                <div class="footer-item_text">
+                                    DATA CENTER ADMIN VIETNAM
+                                </div>
+                                <div class="footer-item_link">
+                                    Ði?n tho?i:
+                                    <a href="#">0926366335</a>
+                                </div>
+                                <div class="footer-item_link">
+                                    Email:
+                                    <a href="#">admin.vn@admin.com</a>
+                                </div>
+                                <div class="footer-item_link">
+                                    Ð?a ch?: VietNam
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 col-6">
+                            <div class="footer-item">
+                                <div class="footer-item_text footer-item_decor">
+                                    D?ch v? Center
+                                </div>
+                                <ul class="footer-item_list">
+                                    <li>
+                                        <a href="/service/rules">D?ch v? uy tín</a>
+                                    </li>
+                                    <li>
+                                        <a href="/service/rules">Ðang kí qu? b?o hi?m</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 col-6">
+                            <div class="footer-item">
+                                <div class="footer-item_text footer-item_decor">
+                                    Thông tin Admin
+                                </div>
+                                <ul class="footer-item_list">
+                                    <li>
+                                        <a href="news">Tin t?c</a>
+                                    </li>
+                                    <li>
+                                        <a href="/">Supper Team Free Fire</a>
+                                    </li>
+                                    <li>
+                                        <a href="/">Supper Team MMO</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-3 col-6">
+                            <div class="footer-item">
+                                <div class="footer-item_text footer-item_decor">
+                                    C?ng d?ng
+                                </div>
+                                <ul class="list-unstyled mb-0 footer-item_social">
+                                    <li class="facebook">
+                                        <a href="#">
+                                            <i class="fab fa-facebook-f"></i>
+                                        </a>
+                                    </li>
+                                    <li class="telegram">
+                                        <a href="#">
+                                            <i class="fab fa-telegram-plane"></i>
+                                        </a>
+                                    </li>
+                                    <li class="twitter">
+                                        <a href="#">
+                                            <i class="fab fa-twitter"></i>
+                                        </a>
+                                    </li>
+                                    <li class="youtube">
+                                        <a href="#">
+                                            <i class="fab fa-youtube"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="float-buttons">
+    <a href="/service/denounce" class="btn-theme btn-theme_primary">T? CÁO <span style="top: -3px; left: 497px;"></span></a>
+    <a href="/service/reputation" class="btn-theme btn-theme_success">CHECK UY TÍN<span style="top: 45px; left: 29.5px;"></span></a>
+</div>
+
+
+
+</body>
