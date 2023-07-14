@@ -1,3 +1,4 @@
+
 <html><head>
         <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -5,18 +6,18 @@
         <meta http-equiv="content-language" content="vi">
         <meta name="robots" content="index, follow'">
 
-        <meta name="description" content="D?ch V? Uy Tín Ðu?c ADMINFF.INFO Ð?m B?o Uy Tín Khi Giao D?ch Du?i M?c B?o Hi?m">
-        <meta name="keywords" content="D?ch V? Uy Tín Ðu?c ADMINFF.INFO Ð?m B?o Uy Tín Khi Giao D?ch Du?i M?c B?o Hi?m">
+        <meta name="description" content="D?ch V? Uy Tï¿½n ï¿½u?c ADMINFF.INFO ï¿½?m B?o Uy Tï¿½n Khi Giao D?ch Du?i M?c B?o Hi?m">
+        <meta name="keywords" content="D?ch V? Uy Tï¿½n ï¿½u?c ADMINFF.INFO ï¿½?m B?o Uy Tï¿½n Khi Giao D?ch Du?i M?c B?o Hi?m">
 
         <!-- Open Graph data -->
-        <meta property="og:title" content="D?ch V? Uy Tín Ðu?c ADMINFF.INFO Ð?m B?o Uy Tín Khi Giao D?ch Du?i M?c B?o Hi?m">
+        <meta property="og:title" content="D?ch V? Uy Tï¿½n ï¿½u?c ADMINFF.INFO ï¿½?m B?o Uy Tï¿½n Khi Giao D?ch Du?i M?c B?o Hi?m">
         <meta property="og:type" content="Website">
         <meta property="og:url" content="https://checkscamvietnam.info">
         <meta property="og:image" content="/storage/userfiles/files/admin6.png">
-        <meta property="og:description" content="D?ch V? Uy Tín Ðu?c ADMINFF.INFO Ð?m B?o Uy Tín Khi Giao D?ch Du?i M?c B?o Hi?m">
-        <meta property="og:site_name" content="D?ch V? Uy Tín Ðu?c ADMINFF.INFO Ð?m B?o Uy Tín Khi Giao D?ch Du?i M?c B?o Hi?m">
-        <meta property="article:section" content="D?ch V? Uy Tín Ðu?c ADMINFF.INFO Ð?m B?o Uy Tín Khi Giao D?ch Du?i M?c B?o Hi?m">
-        <meta property="article:tag" content="D?ch V? Uy Tín Ðu?c ADMINFF.INFO Ð?m B?o Uy Tín Khi Giao D?ch Du?i M?c B?o Hi?m">
+        <meta property="og:description" content="D?ch V? Uy Tï¿½n ï¿½u?c ADMINFF.INFO ï¿½?m B?o Uy Tï¿½n Khi Giao D?ch Du?i M?c B?o Hi?m">
+        <meta property="og:site_name" content="D?ch V? Uy Tï¿½n ï¿½u?c ADMINFF.INFO ï¿½?m B?o Uy Tï¿½n Khi Giao D?ch Du?i M?c B?o Hi?m">
+        <meta property="article:section" content="D?ch V? Uy Tï¿½n ï¿½u?c ADMINFF.INFO ï¿½?m B?o Uy Tï¿½n Khi Giao D?ch Du?i M?c B?o Hi?m">
+        <meta property="article:tag" content="D?ch V? Uy Tï¿½n ï¿½u?c ADMINFF.INFO ï¿½?m B?o Uy Tï¿½n Khi Giao D?ch Du?i M?c B?o Hi?m">
 
         <link rel="icon" href="/storage/userfiles/files/adminfav.png">
         <link rel="apple-touch-icon" href="/storage/userfiles/files/adminfav.png">
@@ -93,7 +94,7 @@
                            <div class="header-search">
                               <form method="GET" action="/search">
                                  <div class="form-group position-relative">
-                                    <input type="text" class="form-control" name="query" placeholder="Nh?p s? di?n tho?i, s? tài kho?n ngân hàng ...">
+                                    <input type="text" class="form-control" name="query" placeholder="Nh?p s? di?n tho?i, s? tï¿½i kho?n ngï¿½n hï¿½ng ...">
                                     <button type="submit">
                                     <i class="far fa-search"></i>
                                     </button>
@@ -107,7 +108,7 @@
                                  <i class="fas fa-exclamation"></i>
                               </div>
                               <div class="d-sm-block d-none">
-                                 T? cáo l?a d?o
+                                 T? cï¿½o l?a d?o
                               </div>
                               <span style="top: 37px; left: 95.4062px;"></span>
                            </a>
@@ -131,7 +132,7 @@
                         </li>
                         <li>
                            <a href="/service/rules">
-                           ÐI?U KHO?N
+                           ï¿½I?U KHO?N
                            </a>
                         </li>
                         <li>
@@ -141,7 +142,7 @@
                         </li>
                         <li>
                            <a href="/service/denounce">
-                           T? CÁO L?A Ð?O
+                           T? Cï¿½O L?A ï¿½?O
                            </a>
                         </li>
                      </ul>
@@ -154,7 +155,7 @@
                         <div class="header-search">
                            <form method="GET" action="/search">
                               <div class="form-group position-relative">
-                                 <input type="text" class="form-control" name="query" placeholder="Nh?p s? di?n tho?i, s? tài kho?n ngân hàng ...">
+                                 <input type="text" class="form-control" name="query" placeholder="Nh?p s? di?n tho?i, s? tï¿½i kho?n ngï¿½n hï¿½ng ...">
                                  <button type="submit">
                                  <i class="far fa-search"></i>
                                  </button>
@@ -164,7 +165,7 @@
                      </div>
                      <div class="header-button_items position-relative">
                         <a href="/service/denounce" role="button" class="btn-theme btn-theme_primary">
-                        T? CÁO L?A Ð?O
+                        T? Cï¿½O L?A ï¿½?O
                         <span style="top: -9.54688px; left: 73.4844px;"></span>
                         </a>
                      </div>
@@ -174,7 +175,7 @@
          </div>
       </div>
       <div class="header-overlay" id="header-overlay"></div>
-   </header><title>Hoàng Van Linh | B?o Hi?m H? So Uy Tín</title>
+   </header><title>Hoï¿½ng Van Linh | B?o Hi?m H? So Uy Tï¿½n</title>
 <div id="main" class="main">
     
     
@@ -195,7 +196,7 @@
                                     <span style="top: -14.9062px; left: 91.1562px;"></span>
                                 </a>
                                 <a href="http://m.me/511475696/" class="description-hidden">
-                                    <span>?n vào "Check Mess" nh?n tin cho GDV d? ch?c ch?n r?ng b?n dang giao d?ch v?i Real</span>
+                                    <span>?n vï¿½o "Check Mess" nh?n tin cho GDV d? ch?c ch?n r?ng b?n dang giao d?ch v?i Real</span>
                                     <button>
                                         Ok
                                     </button>
@@ -214,7 +215,7 @@
                                     <div class="profile-box">
                                         <div class="profile-box_content">
                                             <div class="profile-box_content__title">
-                                                Thông tin liên h?
+                                                Thï¿½ng tin liï¿½n h?
                                             </div>
                                             <div class="profile-box_content__list">
                                                 <p>
@@ -254,7 +255,7 @@
                                             <div class="profile-box_content__title">
                                                 Qu? B?o Hi?m Checkscamvietnam.info                                            </div>
                                             <div class="profile-box_content__desc">
-                                                <p>Khách hàng s? du?c <b>Checkscamvietnam.info b?o hi?m an toàn giao d?ch</b> v?i s?
+                                                <p>Khï¿½ch hï¿½ng s? du?c <b>Checkscamvietnam.info b?o hi?m an toï¿½n giao d?ch</b> v?i s?
                                                     ti?n trong qu? b?o hi?m <strong>200.000 VND</strong> c?a <strong>Nguyen Le</strong></p>
                                             </div>
                                             <div class="profile-box_content__image">
@@ -269,11 +270,11 @@
                             <div class="profile-box profile-box_nopr">
                                 <div class="profile-box_content">
                                     <div class="profile-box_content__title">
-                                        Vui lòng ki?m tra k? thông tin tru?c khi giao d?ch tránh
+                                        Vui lï¿½ng ki?m tra k? thï¿½ng tin tru?c khi giao d?ch trï¿½nh
                                         Fake:
                                     </div>
                                     <div class="profile-box_content__subtitle">
-                                        TK ngân hàng
+                                        TK ngï¿½n hï¿½ng
                                     </div>
                                     <ul>
                                     <li class="oo9gr5id" dir="auto">
@@ -285,15 +286,15 @@
                                     <li dir="auto"><strong>Facebook:</strong> <a href="https://fb.com/511475696" target="_blank" rel="noopener" https:="" www.facebook.com="">100038714706779</a></li>
                                     </ul>
                                     <div class="profile-box_content__subtitle">
-                                        Mô t?
+                                        Mï¿½ t?
                                     </div>
                                     <div class="mb-3">
-                                        <ul style="padding: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 15px; word-break: break-word; color: rgb(60, 64, 67); font-family: rb, sans-serif; font-size: 14px;"><li style="padding: 0px 0px 0px 15px; margin: 0px 0px 15px; list-style: none; word-break: break-word; position: relative;"><b style="padding: 0px; margin: 0px; word-break: break-word;">Các DV tang like, follow, view, sub m?ng xã h?i</b></li></ul>                                    </div>
+                                        <ul style="padding: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 15px; word-break: break-word; color: rgb(60, 64, 67); font-family: rb, sans-serif; font-size: 14px;"><li style="padding: 0px 0px 0px 15px; margin: 0px 0px 15px; list-style: none; word-break: break-word; position: relative;"><b style="padding: 0px; margin: 0px; word-break: break-word;">Cï¿½c DV tang like, follow, view, sub m?ng xï¿½ h?i</b></li></ul>                                    </div>
                                     <div class="profile-box_content__desc">
-                                        <p><strong>Luu Ý:</strong> Tránh tru?ng h?p Nick Fake, ?nh Fake, Link Fake, R?a
-                                            Ti?n…. Ngu?i dùng hãy nh? Chát dúng Facebook, G?i dúng SÐT, Chuy?n kho?n
-                                            dúng nh?ng STK có ? trong trong link b?o hi?m này Checkscamvietnam.info cam k?t b?n s?
-                                            an toàn trong m?i giao d?ch..!!!</p>
+                                        <p><strong>Luu ï¿½:</strong> Trï¿½nh tru?ng h?p Nick Fake, ?nh Fake, Link Fake, R?a
+                                            Ti?nï¿½. Ngu?i dï¿½ng hï¿½y nh? Chï¿½t dï¿½ng Facebook, G?i dï¿½ng Sï¿½T, Chuy?n kho?n
+                                            dï¿½ng nh?ng STK cï¿½ ? trong trong link b?o hi?m nï¿½y Checkscamvietnam.info cam k?t b?n s?
+                                            an toï¿½n trong m?i giao d?ch..!!!</p>
                                     </div>
                                     <div class="profile-box_content_watermark">
                                         <img src="https://i.imgur.com/C21wbbE.png" alt="">
@@ -302,9 +303,9 @@
                             </div>
                         </div>
                         <div class="profile-desc">
-                            M?i giao d?ch c?a b?n v?i <b>"Hoàng Van Linh"</b> s? du?c <b>Checkscamvietnam.info                                B?o v?</b> v?i s? ti?n n?m trong <strong>Qu? b?o hi?m 123.456.789 VND</strong> khi b?n
-                            tuân theo
-                            <a href="">Ði?u Kho?n S? D?ng</a>
+                            M?i giao d?ch c?a b?n v?i <b>"Hoï¿½ng Van Linh"</b> s? du?c <b>Checkscamvietnam.info                                B?o v?</b> v?i s? ti?n n?m trong <strong>Qu? b?o hi?m 123.456.789 VND</strong> khi b?n
+                            tuï¿½n theo
+                            <a href="">ï¿½i?u Kho?n S? D?ng</a>
                             c?a Checkscamvietnam.info                        </div>
                     </div>
                 </div>
@@ -324,7 +325,7 @@
                                     DATA CENTER ADMIN VIETNAM
                                 </div>
                                 <div class="footer-item_link">
-                                    Ði?n tho?i:
+                                    ï¿½i?n tho?i:
                                     <a href="#">0926366335</a>
                                 </div>
                                 <div class="footer-item_link">
@@ -332,7 +333,7 @@
                                     <a href="#">admin.vn@admin.com</a>
                                 </div>
                                 <div class="footer-item_link">
-                                    Ð?a ch?: VietNam
+                                    ï¿½?a ch?: VietNam
                                 </div>
                             </div>
                         </div>
@@ -343,10 +344,10 @@
                                 </div>
                                 <ul class="footer-item_list">
                                     <li>
-                                        <a href="/service/rules">D?ch v? uy tín</a>
+                                        <a href="/service/rules">D?ch v? uy tï¿½n</a>
                                     </li>
                                     <li>
-                                        <a href="/service/rules">Ðang kí qu? b?o hi?m</a>
+                                        <a href="/service/rules">ï¿½ang kï¿½ qu? b?o hi?m</a>
                                     </li>
                                 </ul>
                             </div>
@@ -354,7 +355,7 @@
                         <div class="col-md-6 col-lg-3 col-6">
                             <div class="footer-item">
                                 <div class="footer-item_text footer-item_decor">
-                                    Thông tin Admin
+                                    Thï¿½ng tin Admin
                                 </div>
                                 <ul class="footer-item_list">
                                     <li>
@@ -407,8 +408,8 @@
 </footer>
 
 <div class="float-buttons">
-    <a href="/service/denounce" class="btn-theme btn-theme_primary">T? CÁO <span></span></a>
-    <a href="/service/reputation" class="btn-theme btn-theme_success">CHECK UY TÍN<span></span></a>
+    <a href="/service/denounce" class="btn-theme btn-theme_primary">T? Cï¿½O <span></span></a>
+    <a href="/service/reputation" class="btn-theme btn-theme_success">CHECK UY Tï¿½N<span></span></a>
 </div>
 
 
